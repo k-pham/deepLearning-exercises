@@ -1,0 +1,7 @@
+# automatically created folders by editors
+/.ipynb_checkpoints/
+/.vscode/
+
+# any notMNIST data
+notMNIST_large*
+notMNIST_small*
